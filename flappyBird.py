@@ -268,6 +268,7 @@ def main(genomes, config):
                 ge.pop(x) 
         
 
+        
 
         draw_window(win, birds, pipes, base, score, GEN)
 
